@@ -1,0 +1,16 @@
+body{
+	height: 20000px;
+}
+.p-0{
+	padding: 0;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon
+.text-center{
+
+	
+	height: 50px;
+	width: 50px;
+}
+.text-center{
+	margin-top: 10px;
+}
