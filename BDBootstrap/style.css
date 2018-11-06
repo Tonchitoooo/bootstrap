@@ -1,0 +1,17 @@
+html,body,header, #intro{
+	height: 100%;
+}
+#intro{
+	background: url(https://images.pexels.com/photos/1554662/pexels-photo-1554662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+	no-repeat center center fixed;
+
+	background-size: cover; 
+}
+.top-nav-collapse{
+	background-color: #082b25;
+}
+@media (max-width: 768px){
+	.navbar:not(.top-nav-collapse){
+		background: #082b25;)
+	}
+}
